@@ -9,8 +9,8 @@
 |
 | recaptcha_theme	'red' | 'white' | 'blackglass' | 'clean' | 'custom'
 */
-$config['recaptcha_public_key'] 	= "";
-$config['recaptcha_private_key'] 	= "";
+$config['recaptcha_public_key'] 	= "6LdZhuUSAAAAAHJwxc3jdDKT0Z7_k3LUp2oMkwNA";
+$config['recaptcha_private_key'] 	= "6LdZhuUSAAAAAC6-eq56kv6pHHJu5ca8nC6IgXZD";
 $config['recaptcha_theme'] 			= "white";
 
 
